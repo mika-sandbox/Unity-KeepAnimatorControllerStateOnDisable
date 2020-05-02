@@ -8,7 +8,7 @@ In the following article, if you set `keepAnimatorControllerStateOnDisable` to `
 
 [Avatars - In-depth guide to animator inventory systems, logic, and syncing!](https://vrcat.club/threads/in-depth-guide-to-animator-inventory-systems-logic-and-syncing-w-unitypackage.2858/)
 
-When the above property is enabled, the animation of the `Colors` GameObject is not played until the end of the game, and the animation stops playing at about half of the upper object's playback time.
+When the above property is enabled, the animation of the `Animator` GameObject is not played until the end of the game, and the animation stops playing at about half of the upper object's playback time.
 
 ## Workaround
 

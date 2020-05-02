@@ -4,7 +4,7 @@ Workaround for Unknown Behaviour of KeepAnimatorControllerStateOnDisable
 
 ## What's happening?
 
-In the following article, if you set `keepAnimatorControllerStateOnDisable` to `true` in the `Colors` GameObject, it will not work properly.
+In the following article, if you set `keepAnimatorControllerStateOnDisable` to `true` in the `Animator` GameObject, it will not work properly.
 
 [Avatars - In-depth guide to animator inventory systems, logic, and syncing!](https://vrcat.club/threads/in-depth-guide-to-animator-inventory-systems-logic-and-syncing-w-unitypackage.2858/)
 

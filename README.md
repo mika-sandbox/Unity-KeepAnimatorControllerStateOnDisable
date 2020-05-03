@@ -12,7 +12,7 @@ When the above property is enabled, the animation of the `Animator` GameObject i
 
 ## Workaround
 
-In the higher GameObject, the playback time is set to about twice the animation playback time of the corresponding GameObject.
+In the higher GameObject, the playback time is set to about twice the animation playback time of the corresponding GameObject.  
 For Example:
 
 - Child GameObject has 0:30 + 0:01 animation, Parent GameObject set to 1:01 animation.
